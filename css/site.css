@@ -1,0 +1,11 @@
+#my-portrait {
+  display: flex;
+  flex-direction: row;
+}
+p {
+  font-size: 13px;
+  flex: 1;
+}
+img {
+  width: 200px;
+}
